@@ -38,7 +38,7 @@ const About = () => {
       </article>
     </div>
 
-    <p></p>
+    <p>Hello this is Prudhvi.</p>
     <a href='#contact' className='btn btn-primary'> Let's Talk </a>
     </div>
     </div>
