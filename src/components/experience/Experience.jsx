@@ -4,18 +4,18 @@ import {IoCheckmarkCircleSharp} from 'react-icons/io5'
 
 const Experience = () =>{
   return(
-    <section id='experience'> 
+    <section id='experience'>
     <h5>What skills I have</h5>
     <h2>My experience</h2>
     <div className='container experience__container'>
     <div className='experience__frontend'>
 
-    <h3>Front End Developemt</h3>
+    <h3>Programming Languages</h3>
     <div className='experience__content'>
     <article className='experience__details'>
     <IoCheckmarkCircleSharp className='experience__details-icon'/>
     <div>
-    <h4> HTML </h4>
+    <h4> Python </h4>
     <small className='text-light'> Experienced </small>
     </div>
     </article>
@@ -23,7 +23,7 @@ const Experience = () =>{
     <article className='experience__details'>
     <IoCheckmarkCircleSharp className='experience__details-icon'/>
     <div>
-    <h4> JavaScript </h4>
+    <h4> C / C++</h4>
     <small className='text-light'> Intermediate </small>
     </div>
     </article>
@@ -31,7 +31,7 @@ const Experience = () =>{
     <article className='experience__details'>
     <IoCheckmarkCircleSharp className='experience__details-icon'/>
     <div>
-    <h4> Python </h4>
+    <h4> Java </h4>
     <small className='text-light'> Intermediate </small>
     </div>
     </article>
@@ -43,36 +43,44 @@ const Experience = () =>{
     <small className='text-light'> Experienced </small>
     </div>
     </article>
-
-    <article className='experience__details'>
-    <IoCheckmarkCircleSharp className='experience__details-icon'/>
-    <div>
-    <h4> C/C++ </h4>
-    <small className='text-light'> Experienced </small>
-    </div>
-    </article>
     </div>
     </div>
 
 
     <div className='experience__backend'>
-    <h3> Backend Developemt </h3>
+    <h3> Cloud </h3>
     <div className='experience__content'>
+
     <article className='experience__details'>
     <IoCheckmarkCircleSharp className='experience__details-icon'/>
     <div>
-    <h4> Node.js </h4>
+    <h4> AWS </h4>
     <small className='text-light'> Intermediate </small>
     </div>
     </article>
+
     <article className='experience__details'>
     <IoCheckmarkCircleSharp className='experience__details-icon'/>
     <div>
-    <h4> MongoDB </h4>
+    <h4> Azure </h4>
     <small className='text-light'> Basic </small>
     </div>
     </article>
 
+
+    <article className='experience__details'>
+    <IoCheckmarkCircleSharp className='experience__details-icon'/>
+    <div>
+    <h4> Google Cloud </h4>
+    <small className='text-light'> Basic </small>
+    </div>
+    </article>
+    </div>
+    </div>
+
+    <div className='experience__os'>
+    <h3> Database Systems </h3>
+    <div className='experience__content'>
     <article className='experience__details'>
     <IoCheckmarkCircleSharp className='experience__details-icon'/>
     <div>
@@ -80,18 +88,49 @@ const Experience = () =>{
     <small className='text-light'> Intermediate </small>
     </div>
     </article>
+
     <article className='experience__details'>
     <IoCheckmarkCircleSharp className='experience__details-icon'/>
     <div>
-    <h4> AWS </h4>
-    <small className='text-light'> Experienced </small>
+    <h4> MongodDB </h4>
+    <small className='text-light'> Basic </small>
     </div>
     </article>
+
     <article className='experience__details'>
     <IoCheckmarkCircleSharp className='experience__details-icon'/>
     <div>
-    <h4> Unix </h4>
-    <small className='text-light'> Experienced </small>
+    <h4> Amazon RDS </h4>
+    <small className='text-light'> Basic </small>
+    </div>
+    </article>
+    </div>
+    </div>
+
+    <div className='experience__os'>
+    <h3> Softwares </h3>
+    <div className='experience__content'>
+    <article className='experience__details'>
+    <IoCheckmarkCircleSharp className='experience__details-icon'/>
+    <div>
+    <h4> PyCharm </h4>
+    <small className='text-light'> Intermediate </small>
+    </div>
+    </article>
+
+    <article className='experience__details'>
+    <IoCheckmarkCircleSharp className='experience__details-icon'/>
+    <div>
+    <h4> R Studio </h4>
+    <small className='text-light'> Intermediate </small>
+    </div>
+    </article>
+
+    <article className='experience__details'>
+    <IoCheckmarkCircleSharp className='experience__details-icon'/>
+    <div>
+    <h4> Microsoft Office </h4>
+    <small className='text-light'> Basic </small>
     </div>
     </article>
     </div>

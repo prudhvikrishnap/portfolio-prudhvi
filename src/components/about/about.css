@@ -62,7 +62,7 @@
 
 .about__content p{
   margin: 2rem 0 2.6rem;
-  color: var(--color-light);
+  color: var(--color-white);
 }
 
 /* TABLETS  (Medium Devices)*/
@@ -97,5 +97,6 @@
 
 .about__content p{
   margin:1.5rem 0;
+  white-space: pre-line;
 }
 }

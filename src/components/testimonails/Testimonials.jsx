@@ -1,9 +1,9 @@
 import React from 'react'
 import './testimonials.css'
 import AVTR1 from '../../assets/avatar1.jpeg'
-import AVTR2 from '../../assets/avatar1.jpeg'
-import AVTR3 from '../../assets/avatar1.jpeg'
-import AVTR4 from '../../assets/avatar1.jpeg'
+import AVTR2 from '../../assets/avatar2.jpeg'
+import AVTR3 from '../../assets/avatar3.webp'
+import AVTR4 from '../../assets/avatar4.jpeg'
 
 import { Pagination } from 'swiper';
 
@@ -17,19 +17,19 @@ const data=[
   {
     avatar:AVTR1,
     name:'Bill Gates',
-    review:'He is nice a ncie guy. I have met him in class he is intellighent and smakrt and happy and ncie to bw around.He cared about'
+    review:'All my windows are open for his ideas.'
   },{
     avatar:AVTR2,
-    name:'Bill Gates',
-    review:'He is nice'
+    name:'Steve Jobs',
+    review:'He thinks different.'
   },{
     avatar:AVTR3,
-    name:'Bill Gates',
-    review:'He is nice'
+    name:'Elon Musk',
+    review:'He is my co-passenger when I go to Mars.'
   },{
     avatar:AVTR4,
-    name:'Bill Gates',
-    review:'He is nice'
+    name:'Jeff Bezoz',
+    review:'No, he is my co-passenger.'
   }
 ]
 

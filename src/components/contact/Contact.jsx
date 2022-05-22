@@ -17,7 +17,7 @@ const Contact = () => {
 
       e.target.reset()
     };
-    
+
   return(
     <section id='contact'>
     <h5> Get in Touch </h5>
@@ -29,21 +29,21 @@ const Contact = () => {
     <AiOutlineMail className='contact__option-icon'/>
     <h4> Email </h4>
     <h5> pparuch1@stevens.edu </h5>
-    <a href ='mailto:pparuch1@stevens.edu' target='_blank'> Send an email </a>
+    <a href ='mailto:pparuch1@stevens.edu' rel='noreferrer'> Send an email </a>
     </article>
 
     <article className='contact__option'>
     <RiMessengerFill className='contact__option-icon'/>
     <h4> Messenger </h4>
     <h5> Prudhvi Krishna Paruchuri </h5>
-    <a href ='https://m.me/' target='_blank'> Send a message </a>
+    <a href ='https://m.me/' rel='noreferrer'> Send a message </a>
     </article>
 
     <article className='contact__option'>
     <FaTwitter className='contact__option-icon'/>
     <h4> Twitter </h4>
     <h5> @prudhvi98 </h5>
-    <a href ='https://twitter.com/messages/compose?recipient_id=prudhvi98'  target='_blank'> Send a text </a>
+    <a href ='https://twitter.com/messages/compose?recipient_id=prudhvi98'  rel='noreferrer'> Send a text </a>
     </article>
 
     </div>
