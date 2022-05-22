@@ -2,7 +2,7 @@ import React from 'react'
 import './contact.css'
 import {AiOutlineMail} from 'react-icons/ai'
 import {RiMessengerFill}  from 'react-icons/ri'
-import {RiWhatsappLine} from 'react-icons/ri'
+import {FaTwitter} from 'react-icons/fa'
 
 
 const Contact = () => {
@@ -23,15 +23,15 @@ const Contact = () => {
     <article className='contact__option'>
     <RiMessengerFill className='contact__option-icon'/>
     <h4> Messenger </h4>
-    <h5> pparuch1@stevens.edu </h5>
+    <h5> Prudhvi Krishna Paruchuri </h5>
     <a href ='https://m.me/' target='_blank'> Send a message </a>
     </article>
 
     <article className='contact__option'>
-    <RiWhatsappLine className='contact__option-icon'/>
-    <h4> Whatsapp </h4>
-    <h5> pparuch1@stevens.edu </h5>
-    <a href ='https://api.whatsapp.com/send?phone=+91999999999'  target='_blank'> Send a text </a>
+    <FaTwitter className='contact__option-icon'/>
+    <h4> Twitter </h4>
+    <h5> @prudhvi98 </h5>
+    <a href ='https://twitter.com/messages/compose?recipient_id=prudhvi98'  target='_blank'> Send a text </a>
     </article>
 
     </div>
