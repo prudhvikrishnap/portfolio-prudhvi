@@ -4,7 +4,7 @@ import {AiOutlineMail} from 'react-icons/ai'
 import {RiMessengerFill}  from 'react-icons/ri'
 import {FaTwitter} from 'react-icons/fa'
 import emailjs from 'emailjs-com'
-import { useRef } from 'react';
+import { useRef } from 'react'
 
 
 
