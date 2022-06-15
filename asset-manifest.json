@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-prudhvi/static/css/main.1a36b737.css",
-    "main.js": "/portfolio-prudhvi/static/js/main.653e7da5.js",
+    "main.js": "/portfolio-prudhvi/static/js/main.1df09b5d.js",
     "static/media/avatar4.jpeg": "/portfolio-prudhvi/static/media/avatar4.67a8d2736c8d61564929.jpeg",
     "static/media/avatar3.webp": "/portfolio-prudhvi/static/media/avatar3.2eabc91eb14a0d67966b.webp",
     "static/media/avatar2.jpeg": "/portfolio-prudhvi/static/media/avatar2.768a87b95e60b0111dd6.jpeg",
@@ -10,17 +10,17 @@
     "static/media/portfolio3.jpeg": "/portfolio-prudhvi/static/media/portfolio3.411afd5434c6f8ee3135.jpeg",
     "static/media/IMG_3763.JPG": "/portfolio-prudhvi/static/media/IMG_3763.8c6177a05b26f7db2bcc.JPG",
     "static/media/portfolio5.jpeg": "/portfolio-prudhvi/static/media/portfolio5.c32d77c341caab3e84a5.jpeg",
-    "static/media/prudhvi_resume.pdf": "/portfolio-prudhvi/static/media/prudhvi_resume.25f2edb90207d9e3d14e.pdf",
+    "static/media/prudhvi_resume.pdf": "/portfolio-prudhvi/static/media/prudhvi_resume.0e65048289b4704b250e.pdf",
     "static/media/portfolio6.jpeg": "/portfolio-prudhvi/static/media/portfolio6.62df07371173dc931939.jpeg",
     "static/media/portfolio2.jpeg": "/portfolio-prudhvi/static/media/portfolio2.53ac3ddfd2e7b7d32fab.jpeg",
     "static/media/bg-texture.png": "/portfolio-prudhvi/static/media/bg-texture.2390ea294264598898f3.png",
     "static/media/portfolio1.png": "/portfolio-prudhvi/static/media/portfolio1.a1a8ebc5453140c5c20f.png",
     "index.html": "/portfolio-prudhvi/index.html",
     "main.1a36b737.css.map": "/portfolio-prudhvi/static/css/main.1a36b737.css.map",
-    "main.653e7da5.js.map": "/portfolio-prudhvi/static/js/main.653e7da5.js.map"
+    "main.1df09b5d.js.map": "/portfolio-prudhvi/static/js/main.1df09b5d.js.map"
   },
   "entrypoints": [
     "static/css/main.1a36b737.css",
-    "static/js/main.653e7da5.js"
+    "static/js/main.1df09b5d.js"
   ]
 }
